@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tushar Maheshwari
-- An entry level Data Analyst with 2+ years experience in Marketing analytics and Account management. An inquisitive and avid learner with keen interest in Data Science and the world of analytics.
+- A Data Science enthusiast with 2+ years experience in Marketing analytics and Account management. An inquisitive and avid learner with keen interest in Data Science and the world of analytics.
 - 📫 You can contact me via email: tusharmhyd97@gmail.com
 
 <!---
